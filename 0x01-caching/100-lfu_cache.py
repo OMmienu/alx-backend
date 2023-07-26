@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-LFUCaching 
+LFUCaching
 """
 from collections import defaultdict
 
